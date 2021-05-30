@@ -5,7 +5,7 @@ var dataUrl = [
 "https://dev-neomoviefj.pantheonsite.io/register.php?do=search&q",
 "https://dev-filmflixss.pantheonsite.io/",
 "https://dev-neoflimfj.pantheonsite.io/register.php?do=search&q",
-"https://dev-neofilmfj.pantheonsite.io/register.php?do=search&q,
+"https://dev-neofilmfj.pantheonsite.io/register.php?do=search&q",
 "https://dev-filmfj.pantheonsite.io/"
 
 ];
